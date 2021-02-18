@@ -11,9 +11,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8393a966-5a1e-4eed-924a-d747bce4ea9e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Maze as 2D list.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Reverse String.py" beforeDir="false" afterPath="$PROJECT_DIR$/Reverse String.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maze.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Read Maze.py" beforeDir="false" afterPath="$PROJECT_DIR$/Read Maze.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini_maze_dfs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Mazes/mini_maze_dfs.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modest_maze.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Mazes/modest_maze.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pacman_maze.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Mazes/pacman_maze.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/square_maze_25x25.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Mazes/square_maze_25x25.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,16 +44,44 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="J:\Projects\Projects\Data Structures &amp; Algorithms - LinkedIn Learning" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="J:\Projects\Projects\Data Structures &amp; Algorithms - LinkedIn Learning\Mazes" />
       <recent name="J:\Projects\Projects\Data Structures &amp; Algorithms - LinkedIn Learning" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Reverse String (1)">
+  <component name="RunManager" selected="Python.Read Maze">
+    <configuration name="Read Maze" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Data Structures &amp; Algorithms - LinkedIn Learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Read Maze.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Reverse String (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Data Structures &amp; Algorithms - LinkedIn Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -140,6 +172,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Read Maze" />
         <item itemvalue="Python.Reverse String (1)" />
         <item itemvalue="Python.Reverse String" />
         <item itemvalue="Python.stack (1)" />
@@ -156,7 +189,7 @@
       <option name="presentableId" value="Default" />
       <updated>1613657792192</updated>
       <workItem from="1613657857050" duration="112000" />
-      <workItem from="1613675305067" duration="3228000" />
+      <workItem from="1613675305067" duration="4342000" />
     </task>
     <servers />
   </component>
@@ -175,31 +208,40 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1317" height="191" key="GridCell.Tab.0.bottom" timestamp="1613678519300">
+    <state width="1317" height="191" key="GridCell.Tab.0.bottom" timestamp="1613679678485">
       <screen x="0" y="0" width="1360" height="738" />
     </state>
-    <state width="1317" height="191" key="GridCell.Tab.0.bottom/0.0.1360.738/-1920.-104.1920.1050@0.0.1360.738" timestamp="1613678519300" />
-    <state width="1317" height="191" key="GridCell.Tab.0.center" timestamp="1613678519300">
+    <state width="1317" height="191" key="GridCell.Tab.0.bottom/0.0.1360.738/-1920.-104.1920.1050@0.0.1360.738" timestamp="1613679678485" />
+    <state width="1317" height="191" key="GridCell.Tab.0.center" timestamp="1613679678485">
       <screen x="0" y="0" width="1360" height="738" />
     </state>
-    <state width="1317" height="191" key="GridCell.Tab.0.center/0.0.1360.738/-1920.-104.1920.1050@0.0.1360.738" timestamp="1613678519300" />
-    <state width="1317" height="191" key="GridCell.Tab.0.left" timestamp="1613678519300">
+    <state width="1317" height="191" key="GridCell.Tab.0.center/0.0.1360.738/-1920.-104.1920.1050@0.0.1360.738" timestamp="1613679678485" />
+    <state width="1317" height="191" key="GridCell.Tab.0.left" timestamp="1613679678485">
       <screen x="0" y="0" width="1360" height="738" />
     </state>
-    <state width="1317" height="191" key="GridCell.Tab.0.left/0.0.1360.738/-1920.-104.1920.1050@0.0.1360.738" timestamp="1613678519300" />
-    <state width="1317" height="191" key="GridCell.Tab.0.right" timestamp="1613678519300">
+    <state width="1317" height="191" key="GridCell.Tab.0.left/0.0.1360.738/-1920.-104.1920.1050@0.0.1360.738" timestamp="1613679678485" />
+    <state width="1317" height="191" key="GridCell.Tab.0.right" timestamp="1613679678485">
       <screen x="0" y="0" width="1360" height="738" />
     </state>
-    <state width="1317" height="191" key="GridCell.Tab.0.right/0.0.1360.738/-1920.-104.1920.1050@0.0.1360.738" timestamp="1613678519300" />
+    <state width="1317" height="191" key="GridCell.Tab.0.right/0.0.1360.738/-1920.-104.1920.1050@0.0.1360.738" timestamp="1613679678485" />
     <state x="403" y="71" key="RollbackChangesDialog" timestamp="1613676300972">
       <screen x="0" y="0" width="1360" height="738" />
     </state>
     <state x="403" y="71" key="RollbackChangesDialog/0.0.1360.738/-1920.-104.1920.1050@0.0.1360.738" timestamp="1613676300972" />
+    <state x="181" y="14" key="SettingsEditor" timestamp="1613679697162">
+      <screen x="0" y="0" width="1360" height="738" />
+    </state>
+    <state x="181" y="14" key="SettingsEditor/0.0.1360.738/-1920.-104.1920.1050@0.0.1360.738" timestamp="1613679697162" />
+    <state x="343" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1613679521826">
+      <screen x="0" y="0" width="1360" height="738" />
+    </state>
+    <state x="343" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1360.738/-1920.-104.1920.1050@0.0.1360.738" timestamp="1613679521826" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Data_Structures___Algorithms___LinkedIn_Learning$Reverse_String__1_.coverage" NAME="Reverse String (1) Coverage Results" MODIFIED="1613678519279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Data_Structures___Algorithms___LinkedIn_Learning$Reverse_String.coverage" NAME="Reverse String Coverage Results" MODIFIED="1613678025785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
     <SUITE FILE_PATH="coverage/Data_Structures___Algorithms___LinkedIn_Learning$stack.coverage" NAME="stack Coverage Results" MODIFIED="1613676168636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Scripts" />
     <SUITE FILE_PATH="coverage/Data_Structures___Algorithms___LinkedIn_Learning$stack__1_.coverage" NAME="stack (1) Coverage Results" MODIFIED="1613677622661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Data_Structures___Algorithms___LinkedIn_Learning$Read_Maze.coverage" NAME="Read Maze Coverage Results" MODIFIED="1613679678467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
