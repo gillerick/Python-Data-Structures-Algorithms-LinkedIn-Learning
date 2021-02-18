@@ -2,7 +2,7 @@ import stack
 
 string = "gninraeL nIdekniL htiw tol a nraeL"
 reversed_string = ""
-s =stack.Stack()
+s = stack.Stack()
 for char in string:
     s.push(char)
 
